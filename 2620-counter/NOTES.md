@@ -1,6 +1,6 @@
 ## Simple Solution Using Closures
 
-​```javascript
+​``` javascript
 
 function createCounter(n){
     return function(){
