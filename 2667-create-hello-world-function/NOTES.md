@@ -1,4 +1,5 @@
 ​# Intuition
+
 The provided code demonstrates a pattern where a higher-order function is used to create and return another function. This returned function has a specific behavior, in this case, returning a greeting message. We can leverage this pattern to create personalized greeting functions based on the input provided to the higher-order function.
 
 # Approach
