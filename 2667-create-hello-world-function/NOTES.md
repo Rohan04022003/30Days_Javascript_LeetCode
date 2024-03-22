@@ -12,8 +12,7 @@ The time complexity of our solution is constant (O(1)) because generating a gree
 The space complexity is also constant (O(1)) because we're not storing any additional data structures proportional to the input size. We're only creating function closures, which have a negligible impact on memory usage.
 
 # Code
-```
-javascript
+```javascript
 function createHelloWorld(){
     return function(){
         return "Hello World"
