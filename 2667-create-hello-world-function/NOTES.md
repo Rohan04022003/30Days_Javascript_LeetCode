@@ -13,6 +13,7 @@ The space complexity is also constant (O(1)) because we're not storing any addit
 
 # Code
 ```
+javascript
 function createHelloWorld(){
     return function(){
         return "Hello World"
