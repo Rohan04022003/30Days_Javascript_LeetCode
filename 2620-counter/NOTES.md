@@ -1,6 +1,6 @@
 ## Simple Solution Using Closures
 
-​``` javascript
+``` javascript
 
 function createCounter(n){
     return function(){
@@ -25,5 +25,4 @@ for(let i = 0; i < 5; i++){
 }
 
 console.log(output)
-
 ```
