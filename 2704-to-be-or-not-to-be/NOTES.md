@@ -1,5 +1,5 @@
-​# To Be Or Not To Be
-##Easy Solution
+# To Be Or Not To Be
+## Easy Solution
 
 ``` javascript
 
