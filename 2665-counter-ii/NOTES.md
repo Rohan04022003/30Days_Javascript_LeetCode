@@ -1,4 +1,4 @@
-#Counter II Easy Solution
+# Counter II Easy Solution
 
 ```javascript
 var createCounter = function(init) {
