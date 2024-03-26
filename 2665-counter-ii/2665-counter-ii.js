@@ -21,12 +21,10 @@ var createCounter = function(init) {
 //Example 1:
 
 const counter1 = createCounter(5);
-let result1 = [counter1.increment(), counter1.reset(), counter1.decrement()]
-console.log(result1)
+console.log([counter1.increment(), counter1.reset(), counter1.decrement()])
 
 //Example 2:
 
 const counter2 = createCounter(0);
-let result2 = [counter2.increment(), counter2.increment(), counter2.decrement(), counter2.reset(), counter2.reset()]
-console.log(result2)
+console.log([counter2.increment(), counter2.increment(), counter2.decrement(), counter2.reset(), counter2.reset()])
 
