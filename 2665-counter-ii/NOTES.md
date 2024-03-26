@@ -28,6 +28,4 @@ console.log(result1)
 const counter2 = createCounter(0);
 let result2 = [counter2.increment(), counter2.increment(), counter2.decrement(), counter2.reset(), counter2.reset()]
 console.log(result2)
-
-
 ```​
