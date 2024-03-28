@@ -1,4 +1,4 @@
-​# Filter Elements from Array Easy Solution
+# Filter Elements from Array Easy Solution
 
 ``` javascript
 function filter(arr, fn) {
