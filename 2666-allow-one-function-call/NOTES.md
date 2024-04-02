@@ -1,6 +1,6 @@
 # Allow One Function Call
 
-```
+``` javascript
 function once(fn) {
   let called = false;
   let result;
