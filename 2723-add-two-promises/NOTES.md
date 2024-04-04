@@ -1,6 +1,7 @@
 # Add two Promises Easy Solution
 
-​``` javascript
+​```javascript
+
 var addTwoPromises = async function(promise1, promise2) {
   return Promise.all([promise1, promise2]).then(([num1, num2]) => num1 + num2)
  };
